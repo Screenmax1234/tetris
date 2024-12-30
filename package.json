@@ -1,0 +1,11 @@
+{
+      "name": "tetris",
+      "version": "1.0.0",
+      "description": "Tetris Game",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^4.5.5"
+      }
+}
